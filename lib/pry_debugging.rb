@@ -1,3 +1,3 @@
 def plus_two(num)
-	puts 2+3
+	num to_i
 end
