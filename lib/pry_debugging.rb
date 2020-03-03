@@ -1,4 +1,4 @@
 def plus_two(num)
-	num="#{num} + 2"
+	puts "#{plus_two} + "2"""
 end
 plus_two(3)
